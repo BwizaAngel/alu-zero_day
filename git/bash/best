@@ -1,2 +1,5 @@
 #!/bin/bash
+#content from main branch
 echo "This School is so cool!"
+#content from update_script
+echo "Best school"
